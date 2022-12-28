@@ -13,5 +13,5 @@ Support Vector Machine
 Decision Tree
 Random Forest 
 Logistic Regression 
--test model accuracy on test data on confisution matrix 
+test model accuracy on test data on confisution matrix 
 
