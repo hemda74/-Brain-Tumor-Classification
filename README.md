@@ -1,6 +1,6 @@
-# -Brain-Tumor-Classification
--Descrption of Project 
-project Steps
+<h1 align="center" >Brain Tumor Classification</h1>
+
+<h1> project Steps </h1>
 -checking empty values
 -count number of rows and cloumn
 -count the classification column
