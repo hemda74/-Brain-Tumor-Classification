@@ -1,6 +1,6 @@
 <h1 align="center" >Brain Tumor Classification</h1>
 
-<h1> project Steps </h1>
+<h1> Project Steps </h1>
 <p> import Dataset from csv </p>
 <p> checking empty values </p>
 <p> count number of rows and cloumn </p>
