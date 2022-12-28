@@ -1,7 +1,8 @@
 <h1 align="center" >Brain Tumor Classification</h1>
 
 <h1> project Steps </h1>
--checking empty values
+<p> import Dataset from csv </p>
+<p> checking empty values </p>
 -count number of rows and cloumn
 -count the classification column
 -cheking datatypes to see which column need to be replayced 
